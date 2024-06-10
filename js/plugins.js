@@ -151,5 +151,6 @@ var $plugins =
 {"name":"LightSaveData","status":false,"description":"セーブデータ軽量化プラグイン","parameters":{"現パーティのみ保持":"OFF","ExceptionActorIds":"1,2,3,59,60,61,62,63,67,68,69,73,75,76,77,78,85,100,101,105,139,140,141,142,143,144,145,360"}},
 {"name":"111_InputForm","status":true,"description":"ゲーム画面上にHTMLの入力フォームを表示します","parameters":{"OK Button Text":"決定","Display Cancel Button":"1","Cancel Button Text":"キャンセル","Judge Switch Interval":"100","Switch ID Selected OK":"0","Force OK Switch ID":"0","Force Cancel Switch ID":"0"}},
 {"name":"Torigoya_MaxSlipDamageSetting","status":true,"description":"毒などのスリップダメージの最大値を敵ごとに設定できるようにします。","parameters":{}},
-{"name":"ExistPlayerOnTileEvent","status":true,"description":"プレイヤーの位置にイベントが存在するかチェックする","parameters":{}}
+{"name":"ExistPlayerOnTileEvent","status":true,"description":"プレイヤーの位置にイベントが存在するかチェックする","parameters":{}},
+{"name":"Fullscreen_Options","status":false,"description":"auto fullscreen","parameters":{"fullscreenOptionName":"Fullscreen","forceFullscreen":"false","Add command to option?":"false","Disable F3?":"true","Disable F4?":"false"}}
 ];
