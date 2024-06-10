@@ -152,5 +152,5 @@ var $plugins =
 {"name":"111_InputForm","status":true,"description":"ゲーム画面上にHTMLの入力フォームを表示します","parameters":{"OK Button Text":"決定","Display Cancel Button":"1","Cancel Button Text":"キャンセル","Judge Switch Interval":"100","Switch ID Selected OK":"0","Force OK Switch ID":"0","Force Cancel Switch ID":"0"}},
 {"name":"Torigoya_MaxSlipDamageSetting","status":true,"description":"毒などのスリップダメージの最大値を敵ごとに設定できるようにします。","parameters":{}},
 {"name":"ExistPlayerOnTileEvent","status":true,"description":"プレイヤーの位置にイベントが存在するかチェックする","parameters":{}},
-{"name":"Fullscreen_Options","status":false,"description":"auto fullscreen","parameters":{"fullscreenOptionName":"Fullscreen","forceFullscreen":"false","Add command to option?":"false","Disable F3?":"true","Disable F4?":"false"}}
+{"name":"Fullscreen_Options","status":true,"description":"auto fullscreen","parameters":{"fullscreenOptionName":"Fullscreen","forceFullscreen":"false","Add command to option?":"false","Disable F3?":"true","Disable F4?":"false"}}
 ];
